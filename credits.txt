@@ -1,0 +1,5 @@
+Obfuscator Made By ACE
+
+Other credits:
+>>> Aura Obfuscator - Base of the obfuscator and most of the obfuscation settings 
+>>> Vortex - Testing the obfuscator and all of the settings
